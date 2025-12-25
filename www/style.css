@@ -1,0 +1,36 @@
+body {
+  background: #0f172a;
+  color: #e5e7eb;
+  font-family: sans-serif;
+}
+
+.app {
+  max-width: 400px;
+  margin: 50px auto;
+  background: #020617;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+h1 {
+  text-align: center;
+}
+
+button {
+  width: 100%;
+  margin-top: 15px;
+  padding: 12px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+pre {
+  margin-top: 15px;
+  background: black;
+  padding: 10px;
+  height: 150px;
+  overflow: auto;
+}
